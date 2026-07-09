@@ -1,0 +1,10 @@
+{
+  "name": "Mini Moon Lab",
+  "short_name": "Moon Lab",
+  "description": "A tiny playable moon colony.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1b2240",
+  "theme_color": "#1b2240",
+  "orientation": "portrait"
+}
