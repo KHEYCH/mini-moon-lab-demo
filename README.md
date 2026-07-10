@@ -1,9 +1,5 @@
-# Mini Moon Lab Demo
+﻿# Mini Moon Lab Demo
 
-Static mobile demo for Mini Moon Lab.
+Static GitHub Pages build for Mini Moon Lab.
 
-Open the playable build:
-
-https://kheych.github.io/mini-moon-lab-demo/
-
-This repository contains compiled static output only.
+Public demo: https://kheych.github.io/mini-moon-lab-demo/
