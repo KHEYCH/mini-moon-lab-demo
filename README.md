@@ -1,3 +1,5 @@
 ﻿# Mini Moon Lab Demo
 
-Static GitHub Pages build for Mini Moon Lab. Source history and private app-lab files are not published here.
+Static GitHub Pages build for Mini Moon Lab.
+
+Source repo remains private in KHEYCH/app-lab. This public repo contains only built static demo files.
